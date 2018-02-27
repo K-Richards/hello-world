@@ -1,2 +1,3 @@
 # hello-world
-yup
+hi im trying to update my codung skills1!!
+ 
